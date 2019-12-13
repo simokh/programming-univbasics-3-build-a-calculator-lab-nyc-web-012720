@@ -20,10 +20,13 @@ end
 multiplication(4,30)
 
 def modulo(num1, num2)
+  num1 mod num2
+end
+module(34,5)
 
 end
 
 def square_root(num)
-  Math.sqrt num 
+  Math.sqrt num
 end
 square_root(81)
